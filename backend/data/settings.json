@@ -1,0 +1,12 @@
+[
+  {
+    "_id": "e2f4d095-9047-42ec-8357-d0daeede7625",
+    "user_id": "default_user",
+    "theme": "light",
+    "notifications": true,
+    "autoSave": true,
+    "dataSync": false,
+    "created_at": "2025-04-16T17:49:09.190154",
+    "updated_at": "2025-04-16T17:49:09.190287"
+  }
+]
